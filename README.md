@@ -98,7 +98,7 @@ Essa abordagem evita **deadlock** (travamento) e **starvation** (fome infinita d
 ---
 
 ## ✅ Resultados  
-
+![jessica.gif](jessica.gif)
 A simulação visual mostra claramente os ciclos de **pensamento**, **fome** e **alimentação**.  
 O **contador de refeições** comprova que todos os filósofos participam da execução sem bloqueios injustos.  
 O botão **"Mostrar Solução"** facilita a **compreensão teórica da estratégia de sincronização** adotada.
